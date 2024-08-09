@@ -7,7 +7,7 @@ Meu nome é Samuel
 - Ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Você entrar em contato comigo 📫
-
+sasousa906@gmail.com
 
 
 
