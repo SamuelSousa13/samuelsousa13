@@ -1,5 +1,10 @@
-## boas vindas ao meu perfil ♟️
+## Boas vindas ao meu perfil ♟️
 
-meu nome é Samuel
+Meu nome é Samuel
 
--
+- Estou estudando na alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você entrar em contato comigo 📫
+
